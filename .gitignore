@@ -1,2 +1,6 @@
 .DS_Store
+__pycache__/
+*.pyc
+tree-db/trees.db
+tree-db/static/uploads/
 
